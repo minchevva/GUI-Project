@@ -1,0 +1,44 @@
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe.config
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\i\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\i\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.exe.config
+C:\Users\i\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\i\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\i\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\bin\Debug\Draw.exe.config
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\i\Desktop\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.pdb
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\bin\Debug\Draw.exe.config
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\Zlatomilla\Desktop\🖤\💻втори курс💻\💻трети триместър💻\компютърна графика и ГПИ\workpace\trunk\CGProject\obj\Debug\Draw.pdb
